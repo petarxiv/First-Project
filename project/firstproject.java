@@ -1,10 +1,12 @@
 package project;
 
+import java.util.Scanner;
+
 public class firstproject {
 
 	public static void main(String[] args) {
 		
-/ Homework from Group 21!!!!!!!
+// Homework from Group 21!!!!!!!
 		
 		/*Task 1
 		 * Create an array on int values using a scanner and calculate the 
